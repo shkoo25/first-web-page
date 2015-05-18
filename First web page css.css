@@ -1,0 +1,69 @@
+style.css
+body {
+  background-color: lightblue;
+  margin:0px;
+}
+
+.header {
+	font-size:40px;
+  font-family:Harrington;
+  color: red;
+  padding: 10px;
+	border: dotted 5px black;
+  width:15%
+}
+
+.header2 {
+  font-size: 19px;
+  font-family: Mistral;
+  border: solid 3px orange;
+  width: 20%
+}
+
+.title1 {
+  font-family:Cursive;
+  display:inline-block;
+  margin: 0px;
+  padding: 20px;
+  border: solid 3px black;
+  width: 15%;
+}
+.title2 {
+  display: inline-block;
+  padding: 20px;
+  font-family:Arial;
+  border:solid 5px green;
+  width: 8%;
+}
+
+.title3{
+  display:inline-block;
+  font-family: Calibri;
+  padding:20px;
+  border: solid 2px red;
+  width: 10%;
+  column-fill: 10px
+}
+
+.Styles {
+  font-size: 20px;
+}
+
+ul.a{
+  list-style-type:square;
+  padding-left: 20px;
+}
+
+.First {
+  font-family: Harrington;
+}
+
+.Second{
+  font-family: Mistral;
+  color:green;
+}
+
+.Third{
+  font-family: Cursive;
+  color: red;
+}
